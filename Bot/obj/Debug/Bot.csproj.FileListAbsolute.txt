@@ -1,0 +1,5 @@
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\Bot\Bot\bin\Debug\Bot.dll
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\Bot\Bot\bin\Debug\Bot.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\Bot\Bot\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\Bot\Bot\obj\Debug\Bot.dll
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\Bot\Bot\obj\Debug\Bot.pdb

@@ -1,0 +1,5 @@
+bin\Debug\Bot.dll
+bin\Debug\Bot.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bot.dll
+obj\Debug\Bot.pdb
